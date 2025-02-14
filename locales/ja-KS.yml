@@ -85,8 +85,8 @@ exportRequested: "エクスポートしてな、って言うたけど、これ�
 importRequested: "インポートしてな、ってリクエストしたけど、これ多分めっちゃ時間かかるで。"
 lists: "リスト"
 noLists: "リストなんてあらへんで"
-note: "ノート"
-notes: "ノート"
+note: "ツイート"
+notes: "ツイート"
 following: "フォロー"
 followers: "フォロワー"
 followsYou: "フォローされとるで"
@@ -2021,8 +2021,8 @@ _theme:
     accentLighten: "アクセント (明るめ)"
     fgHighlighted: "強調されとる文字"
 _sfx:
-  note: "ノート"
-  noteMy: "ノート(自分)"
+  note: "ツイート"
+  noteMy: "ツイート(自分)"
   notification: "通知"
   reaction: "ツッコミ選んどるとき"
 _soundSettings:
